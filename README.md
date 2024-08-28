@@ -11,7 +11,7 @@ Welcome to the repository for the Gymnasium Second Year Programming Curriculum! 
 
 The majority of these exercises, including the pacing and the curriculum structure in this repository closely follow the educational content provided by Professor Filip Marić on his YouTube playlist, which is linked below. While the materials have been adapted to meet the specific needs of the students at the Gymnasium of Mladenovac, they are heavily inspired by these excellent resources.
 
-For a more in-depth understanding, please refer to the [YouTube Playlist by Professor Filip Marić](https://www.youtube.com/watch?v=hPl9vQPyYLM&list=PL-Rqe7KfDxRN5v8HAr9UbwHwXWNkD6PGV) . This playlist covers the essential topics and provides detailed explanations that complement the exercises and examples found in this repository.
+For a more in-depth understanding, please refer to the [YouTube Playlist by Professor Filip Marić](https://youtube.com/playlist?list=PL-Rqe7KfDxRN5v8HAr9UbwHwXWNkD6PGV&si=PheAeE1PjPg99ZjQ) . This playlist covers the essential topics and provides detailed explanations that complement the exercises and examples found in this repository.
 
 ## 📁 Repository Structure
 
