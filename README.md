@@ -7,6 +7,12 @@ Welcome to the repository for the Gymnasium Second Year Programming Curriculum! 
     <img src="https://github.com/user-attachments/assets/7f4869a3-6f86-49fe-ae5d-3883503e5fcc" alt="Image 2" width="600" style="display: block;">
   </div>  
 
+## 🔖 Disclaimer
+
+The majority of these exercises, including the pacing and the curriculum structure in this repository closely follow the educational content provided by Professor Filip Marić on his YouTube playlist, which is linked below. While the materials have been adapted to meet the specific needs of the students at the Gymnasium of Mladenovac, they are heavily inspired by these excellent resources.
+
+For a more in-depth understanding, please refer to the [YouTube Playlist by Professor Filip Marić](https://www.youtube.com/watch?v=hPl9vQPyYLM&list=PL-Rqe7KfDxRN5v8HAr9UbwHwXWNkD6PGV) . This playlist covers the essential topics and provides detailed explanations that complement the exercises and examples found in this repository.
+
 ## 📁 Repository Structure
 
 ### 1 - Recursion - Start of the Year
